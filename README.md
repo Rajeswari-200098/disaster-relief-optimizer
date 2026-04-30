@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Disaster Relief Resource Allocation
 ### Greedy vs Dynamic Programming — Interactive Visualizer
 
